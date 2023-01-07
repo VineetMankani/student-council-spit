@@ -1,0 +1,28 @@
+:root {
+    --xs: 1.0rem;
+    --s:  1.2rem;
+    --m:  1.4rem;
+    --l:  1.6rem;
+    --xl: 2.0rem;
+}
+
+/* .navbar-header{
+    background-color:#0d47a1;
+} */
+.navbar-body{
+    /* background-color:#f1f3f5; */
+    /* box-shadow: 0.5px 0.5px 8px 0px #FFF; */
+    font-weight: 500;
+}
+
+/* .navbar-brand{
+    color: #fff;
+    font-size: 1.8rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+} */
+
+.nav-link{
+    font-size: var(--s);
+    font-weight: 600;
+}

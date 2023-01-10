@@ -6,16 +6,16 @@ import './home.css';
 // import Council_Logo from '../assets/home/Council_Logo_W.png';
 import Council_Logo_R from '../assets/home/Counci_Logo_Right.png';
 
-const observer = new IntersectionObserver(e => {
-  e.forEach(e => {
-    console.log(e);
-    if(e.isIntersecting) e.target.classList.add('show');
-    else e.target.classList.remove('show');
-  })
-})
+// const observer = new IntersectionObserver(e => {
+//   e.forEach(e => {
+//     console.log(e);
+//     if(e.isIntersecting) e.target.classList.add('show');
+//     else e.target.classList.remove('show');
+//   })
+// })
 
-const hiddenElms = document.querySelectorAll('.hidden');
-hiddenElms.forEach(el => observer.observe(el));
+// const hiddenElms = document.querySelectorAll('.hidden');
+// hiddenElms.forEach(el => observer.observe(el));
 
 const Home = () => {
 return (

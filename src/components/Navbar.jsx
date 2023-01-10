@@ -24,10 +24,11 @@ const Navbar = () => {
             </button>
             <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <NavLink to="/"       className="nav-link mx-2">Home</NavLink>
-                    <NavLink to="/about"  className="nav-link mx-2">About Us</NavLink>
-                    <NavLink to="/events" className="nav-link mx-2">Events</NavLink>
-                    <NavLink to="/team"   className="nav-link mx-2">Team</NavLink>
+                    <NavLink to="/"           className="nav-link mx-2">Home</NavLink>
+                    <NavLink to="/about"      className="nav-link mx-2">About Us</NavLink>
+                    <NavLink to="/events"     className="nav-link mx-2">Events</NavLink>
+                    <NavLink to="/committees" className="nav-link mx-2">Committees</NavLink>
+                    <NavLink to="/team"       className="nav-link mx-2">Team</NavLink>
                 </div>
             </div>
         </nav>

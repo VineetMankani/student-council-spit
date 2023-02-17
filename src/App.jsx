@@ -1,14 +1,12 @@
 import React from 'react';
 
 import { Routes, Route } from 'react-router-dom';
-import Committees from './routes/Committees';
-import Home from './routes/Home';
-import Team from './routes/Team';
-// import Prev from './routes/prev/Prev';
-// import AOTD from './routes/aotd/AOTD';
-// import Login from './routes/login/Login';
-// import Register from './routes/register/Register';
-// import Dashboard from './routes/dashboard/Dashboard';
+import Committees from './routes/Committees.jsx';
+import Home from './routes/Home.jsx';
+import Team from './routes/Team.jsx';
+import Events from './routes/Events.jsx';
+import DNE from './routes/DNE.jsx';
+
 
 const App = () => {
     return(
@@ -16,11 +14,9 @@ const App = () => {
             <Route path='/' element = {<Home/>} />
             <Route path='/committees' element = {<Committees/>} />
             <Route path='/team' element = {<Team/>} />
-            {/* <Route path='/previousarticle' element = {<Prev/>} /> */}
-            {/* <Route path='/articleoftheday' element = {<AOTD/>} /> */}
-            {/* <Route path='/login' element = {<Login/>} /> */}
-            {/* <Route path='/register' element = {<Register/>} /> */}
-            {/* <Route path='/dashboard' element = {<Dashboard/>} /> */}
+            <Route path='/events' element = {<Events/>} />
+            <Route path='/404' element = {<DNE/>} />
+
         </Routes>
     )
 }

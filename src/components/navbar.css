@@ -26,3 +26,15 @@
     font-size: var(--s);
     font-weight: 600;
 }
+
+.navbar-toggler{
+    border: none;
+}
+
+.navbar {
+    transition: 0.3s ease-in-out;
+}
+
+.bg {
+    background-color: #000;
+}

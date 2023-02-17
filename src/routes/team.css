@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Della+Respira&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Solitreo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:wght@300;400&display=swap');
+
 /* .p-card{
     width: 21rem;
     height: auto;
@@ -106,18 +110,24 @@ body {
 	box-shadow: 0 0 30px #0000002a;
 	text-align: center;
 }
-.box h2 {
+.box .name {
 	color: #ffffff60;
 	text-transform: capitalize;
 	margin: 15px 0;
+	font-family: 'Solitreo';
 }
-.box h2 span {
+/* .box .name span {
 	display: block;
 	font-size: 15px;
 	font-weight: 300;
 	text-transform: capitalize;
+} */
+.box .post{
+	font-family: 'Sofia Sans Extra Condensed';
+	font-weight: 300;
+	letter-spacing: 1px;
 }
-.box q, .box p {
+.box .desc, .box p {
 	color: #ffffff90;
 	font-size: 14px;
 }
@@ -168,9 +178,9 @@ body {
 .profile-img {
 	width: 180px;
 	height: 180px;
-	border-radius: 50%;
 	overflow: hidden;
 	object-fit: cover;
+	border-radius: 50%;
 }
 .profile-img img {
 	width: 100%;

@@ -1,10 +1,11 @@
-/* body{
+body{
     background-color: black;
-} */
-
-article{
-    background-color: white;
+    color: white;
 }
+
+/* article{
+    background-color: white;
+} */
 
 .img1, .img2, .img3{
     opacity: 0.8;
@@ -27,7 +28,7 @@ article{
     min-height: 50vh;
 }
 .img3{
-    background-image: url('../assets/home/6Floor.jpg');
+    background-image: url('../assets/home/Team2023.jpg');
     min-height: 50vh;
 }
 /* 

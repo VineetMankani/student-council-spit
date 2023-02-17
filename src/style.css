@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Finlandica&family=Poppins:wght@300;400;500;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    color: #000;
     text-align: center;
     /* overflow-x: hidden; */
 }
@@ -24,4 +26,10 @@ section{
     justify-content: center;
     margin-left: auto;
     text-align: center;
+}
+
+.title{
+    font-family: 'Shadows Into Light';
+    /* letter-spacing: 1px; */
+    /* text-transform: uppercase; */
 }

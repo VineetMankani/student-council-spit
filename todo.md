@@ -1,0 +1,7 @@
+- 1. Events page pe jo events hai unka description likhna hai.. vo annual report mein se karna hai
+- 2. SPark ke paas links rahege sab even ke photographs ka toh vo unse maange iske add karna hai
+- 3. Committees ka one line description ke vo committee hai kya exactly
+- 4. Committees ke social media handles add karne hai.. sab Gsheet mein ready hai StuCo+CP grp wale.. base isme paste karna hai
+- 5. Team mein sab members ka one line description (ye nikal sakte hai agar need nahi lagri toh)
+- 6. Home page ko sudharna hai.. new images and thoda ideate karte hai aur kya sakte hai
+- 7. Background and overal UI thoda interactive

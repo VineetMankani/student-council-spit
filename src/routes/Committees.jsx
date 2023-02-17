@@ -16,7 +16,7 @@ import iete from '../assets/committees/iete.png';
 import ieee from '../assets/committees/ieee.png';
 
 import ieeeaess from '../assets/committees/ieeeaess.png';
-import ieeecs from '../assets/committees/ieeeaess.png';
+import ieeecs from '../assets/committees/ieeecs.png';
 import ieeewie from '../assets/committees/ieeeaess.png';
 
 import spark from '../assets/committees/spark.png';
@@ -94,15 +94,15 @@ const Committees = () => {
                         img={csi}
                         name="CSI S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
-                        website="https://ecell.spit.ac.in/"
+                        instagram="https://www.instagram.com/csispit"
+                        website="https://csi.spit.ac.in/"
                     />
 
                     <Committee
                         img={ecell}
                         name="E-Cell S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/ecellspit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -110,23 +110,23 @@ const Committees = () => {
                         img={nisp}
                         name="NISP S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
-                        website="https://ecell.spit.ac.in/"
+                        instagram="https://www.instagram.com/nisp_spit"
+                    //website="https://ecell.spit.ac.in/"
                     />
 
                     <Committee
                         img={iete}
                         name="IETE S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
-                        website="https://ecell.spit.ac.in/"
+                        instagram="https://www.instagram.com/iete_spit"
+                    //website="https://ecell.spit.ac.in/"
                     />
 
                     <Committee
                         img={ieee}
                         name="IEEE S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/ieee_spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -134,7 +134,7 @@ const Committees = () => {
                         img={ieeeaess}
                         name="IEEE AESS S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/aessspit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -142,7 +142,7 @@ const Committees = () => {
                         img={ieeecs}
                         name="IEEE CS S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/ieee.cs.spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -150,7 +150,7 @@ const Committees = () => {
                         img={ieeewie}
                         name="IEEE WIE S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/wie_wdc_spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -158,7 +158,7 @@ const Committees = () => {
                         img={spark}
                         name="SPark"
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/whatignitessp"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -166,7 +166,7 @@ const Committees = () => {
                         img={mudra}
                         name="Mudra"
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/mudra_s.p.i.t"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -174,7 +174,7 @@ const Committees = () => {
                         img={sportscomm}
                         name="Sports Committee S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/spoorthi_spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -182,7 +182,7 @@ const Committees = () => {
                         img={oculus}
                         name="OCULUS - The Fest"
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/o.c.u.l.u.s_s.p.i.t"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -190,7 +190,7 @@ const Committees = () => {
                         img={rc}
                         name="Rotaract Club S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/rc_spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -198,7 +198,7 @@ const Committees = () => {
                         img={enactus}
                         name="Enactus S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/enactus.spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -206,7 +206,7 @@ const Committees = () => {
                         img={iic}
                         name="IIC S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/iic_spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -214,7 +214,7 @@ const Committees = () => {
                         img={idealab}
                         name="IdeaLab S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/idealab_spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -222,7 +222,7 @@ const Committees = () => {
                         img={ela}
                         name="ELA S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/ela_s.p.i.t._"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -230,7 +230,7 @@ const Committees = () => {
                         img={face}
                         name="FACE S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/face_spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -238,7 +238,7 @@ const Committees = () => {
                         img={acses}
                         name="ACSES S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/acses.spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -246,7 +246,7 @@ const Committees = () => {
                         img={eesa}
                         name="EESA S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/esa_spit"
                         website="https://ecell.spit.ac.in/"
                     />
 
@@ -255,7 +255,7 @@ const Committees = () => {
                         img={ace}
                         name="ACE S.P.I.T."
                         description="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos perferendis!"
-                        instagram="https://www.instagram.com/vineet.mankani"
+                        instagram="https://www.instagram.com/ace_committee_spit_mca"
                         website="https://ecell.spit.ac.in/"
                     />
 

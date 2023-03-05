@@ -5,6 +5,13 @@
     --l:  1.6rem;
     --xl: 2.0rem;
 }
+/* .bg-grad{ */
+    /* background: linear-gradient(to top, #000, #111, #222, #333); */
+    /* background-color: transparent; */
+/* } */
+/* .bg-trans {
+    background-color: transparent;
+} */
 
 /* .navbar-header{
     background-color:#0d47a1;
@@ -30,11 +37,10 @@
 .navbar-toggler{
     border: none;
 }
-
-.navbar {
-    transition: 0.3s ease-in-out;
-}
-
-.bg {
+.bg{
     background-color: #000;
 }
+.navbar {
+    transition: 0.8s ease-in-out;
+}
+

@@ -1,8 +1,6 @@
 import React from "react";
-
 import Navbar from "../components/Navbar";
 import "../style.css";
-import "./team.css";
 
 import GS23    from '../assets/team/2022-23/Yug_Harlalka_GS.jpg';
 import CS23    from '../assets/team/2022-23/Nikhil_Motwani_CS.jpg';
@@ -35,7 +33,7 @@ function Member(props){
         <>
         {/* <div className="round-1"></div>
         <div className="round-2"></div> */}
-        <div className="box col-3 mx-4 px-5 py-4 mb-5">
+        <div className="team_box col-3 mx-4 px-5 py-4 mb-5">
             <div className="profile-img"><img src={props.img} alt={props.name}/></div>
             <h2 className="name p-0 mb-0 mt-4">{props.name}</h2>
             <h4 className="post text-white mb-3">{props.position}</h4>
@@ -61,12 +59,12 @@ const Team = () => {
     <>
       <Navbar />
 
-      <section id="team" className="">
+      <section id="" className="mainSection">
             
         <main classname="team23">
 
-            <h1 className="title text-white mb-3">TEAM of 2022-23</h1>
-            <div className="projects row justify-content-evenly mt-4">
+            <h1 className="title mb-3">TEAM of 2022-23</h1>
+            <div className="members row justify-content-evenly mt-4">
                                 
                 <Member
                     img={GS23}
@@ -185,7 +183,7 @@ const Team = () => {
         <main classname="team22">
 
             <h1 className="title text-white mb-3">TEAM of 2021-22</h1>
-            <div className="projects row justify-content-evenly mt-4">
+            <div className="members row justify-content-evenly mt-4">
                                 
                 <Member
                     img={DA22}

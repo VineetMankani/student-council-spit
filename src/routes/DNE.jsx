@@ -1,7 +1,5 @@
 import React from "react";
-
 import Navbar from "../components/Navbar";
-import "./committees.css";
 
 const DNE = () => {
     return (
